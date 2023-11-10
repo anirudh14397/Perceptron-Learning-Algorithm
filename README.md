@@ -1,1 +1,3 @@
 # Perceptron-Learning-Algorithm
+
+This code defines a function for training a perceptron, a simple algorithm used for binary classification tasks. In each iteration, the code checks how well the perceptron is classifying the given data points. If a point is misclassified, the perceptron's weights are adjusted to improve accuracy. The function prints information about the current iteration, accuracy, and weights. This process is repeated for a specified number of iterations or until all data points are correctly classified. The goal is to find weights that effectively separate the input data into two classes.
